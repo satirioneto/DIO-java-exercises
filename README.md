@@ -1,2 +1,4 @@
 # DIO-java-exercises
-Exercises to practice Java basics concepts.
+**Exercises to practice Java basics concepts.**
+
+- Smart TV
