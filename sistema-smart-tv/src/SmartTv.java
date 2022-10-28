@@ -1,4 +1,5 @@
 public class SmartTv {
+  // Foi criada a classe SmartTv e em seguida criamos novos atributos para ter uma iteração de estados (no caso esses abaixo são os estados iniciais)
   boolean ligada = false;
   int canal = 1;
   int volume = 25;
